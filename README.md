@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreshtha gupta</h1>
+<h1 align="center">Hi 👋, I'm Shreshtha Gupta</h1>
 <h3 align="center">An inquisitive learner| Passionate about coding and development| Member of media house of MNNIT club, Allahabad| I believe in luck, and I find the harder I work, the more I have of it.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrey-101&label=Profile%20views&color=0e75b6&style=flat" alt="shrey-101" /> </p>
