@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreshtha gupta</h1>
-<h3 align="center">An inquisitive learner| Passionate about coding and development| Member of media house of MNNIT club, Allahabad| I believe in luck, and I find the harder I work, the more I have of it.</h3>
+<h3 align="center">An inquisitive learner| Passionate about coding and development| Member of media house of MNNIT, Allahabad| I believe in luck, and I find the harder I work, the more I have of it.</h3>
 
 
 
